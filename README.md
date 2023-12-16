@@ -32,6 +32,11 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+### Notification
+
+* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Simple and easy to use Kotlin Multiplatform Push Notification library (using Firebase Cloud Messaging) targeting ios and android.
+![badge][badge-android]
+![badge][badge-ios]
 
 ### Repository
 
@@ -146,6 +151,19 @@
 
 #### FILE
 
+* [AppDirs](https://github.com/syer10/Kotlin-Multiplatform-AppDirs) - Kotlin Multiplatform AppDirs is a small library which provides a path to the platform dependent special folder/directory.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [file-picker](https://github.com/Wavesonics/compose-multiplatform-file-picker) - A multiplatform compose widget for picking files with each platform's Native File Picker Dialog.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-mac]
+![badge][badge-windows]
+
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
@@ -259,69 +277,6 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
-* [KotlinCrypto/hash](https://github.com/KotlinCrypto/hash) - Hash functions (MD5/SHA1/SHA2/SHA3).   
-![badge][badge-android]
-![badge][badge-jvm]
-![badge][badge-js]
-![badge][badge-nodejs]
-![badge][badge-wasm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-![badge][badge-android-native]
-![badge][badge-js-ir]
-![badge][badge-apple-silicon]
-
-* [KotlinCrypto/MACs](https://github.com/KotlinCrypto/MACs) - Message Authentication Code functions (Hmac MD5/SHA1/SHA2/SHA3, KMAC).   
-![badge][badge-android]
-![badge][badge-jvm]
-![badge][badge-js]
-![badge][badge-nodejs]
-![badge][badge-wasm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-![badge][badge-android-native]
-![badge][badge-js-ir]
-![badge][badge-apple-silicon]
-
-* [KotlinCrypto/sponges](https://github.com/KotlinCrypto/sponges) - Sponge functions & state (Keccak-p).   
-![badge][badge-android]
-![badge][badge-jvm]
-![badge][badge-js]
-![badge][badge-nodejs]
-![badge][badge-wasm]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-![badge][badge-android-native]
-![badge][badge-js-ir]
-![badge][badge-apple-silicon]
-
-* [KotlinCrypto/secure-random](https://github.com/KotlinCrypto/secure-random) - Cryptographically secure random number generator, `SecureRandom`.   
-![badge][badge-android]
-![badge][badge-jvm]
-![badge][badge-js]
-![badge][badge-nodejs]
-![badge][badge-linux]
-![badge][badge-windows]
-![badge][badge-ios]
-![badge][badge-mac]
-![badge][badge-watchos]
-![badge][badge-tvos]
-![badge][badge-android-native]
-![badge][badge-js-ir]
-![badge][badge-apple-silicon]
-
 * [DatL4g/Sekret](https://github.com/Datl4g/Sekret) - 🔒 Deeply hide secrets with Kotlin Multiplatform (API Keys, Application credentials, etc).   
 ![badge][badge-android]
 ![badge][badge-jvm]
@@ -344,7 +299,83 @@
 ![badge][badge-ios]
 ![badge][badge-js]
 
+* [Firebase-java-sdk](https://github.com/GitLiveApp/firebase-java-sdk) - The Firebase Java SDK is a pure java port of the Firebase Android SDK to run in clientside java environments such as the desktop. 
+![badge][badge-android]
+![badge][badge-ios]
+
 * [FirestoreKMP](https://github.com/touchlab/firestorekmp) - Firestore KMP Library  
+![badge][badge-android]
+![badge][badge-ios]
+
+### Compose
+
+### Other
+
+* [Ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort  
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
+* [AAY chart](https://github.com/TheChance101/AAY-chart) -  The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+![badge][badge-linux]
+![badge][badge-windows]
+![badge][badge-mac]
+
+* [Kamel](https://github.com/Kamel-Media/Kamel) - Kamel is an asynchronous media loading library for Compose Multiplatform. It provides a simple, customizable and efficient way to load, cache, decode and display images in your application.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Flower](https://github.com/hadiyarajesh/flower) - Flower is a Kotlin multi-platform (originally, Android) library that makes networking and database caching easy. 
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Bouquet](https://github.com/GRizzi91/bouquet) - Bouquet is a PDF reader library written completely in Jetpack Compose.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [ComposeShadowsPlus](https://github.com/GIGAMOLE/ComposeShadowsPlus) - ComposeShadowsPlus is a powerful Android Compose library that empowers developers with the ability to easily create and customize stunning, high-quality shadows for their UI elements.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Compose Scrollbars](https://github.com/GIGAMOLE/ComposeScrollbars) - The ComposeScrollbars is a feature-rich Android Compose UI library that seamlessly incorporates customisable scrollbars, including size, animations, background/knob layer style, and scroll behavior, for a seamless UX.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Compose Cards](https://github.com/aritra-tech/ComposeCards) - ComposeCards is a beautifully designed payment view library for Credit and Debit Cards.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Compose Dialogs](https://github.com/MFlisar/ComposeDialogs) - This library offers you an easily extendible compose framework for modal dialogs and allows to show them as a dialog or a bottom sheet.
+![badge][badge-android]
+![badge][badge-ios]
+
+* [material3 windowsizeclass multiplatform](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) - Compose Multiplatform: Material 3 Window Size Class.
+![badge][badge-android]
+![badge][badge-ios]
+![badge][badge-js]
+![badge][badge-jvm]
+
+#### QRcodes
+
+* [QR-code Scaner](https://gist.github.com/oianmol/77b84e498ca0210632ad2f3523c08752) - QR Code Scanner with Jetbrains Jetpack compose multiplatform! - QrScannerScreen.android.kt
+![badge][badge-android]
+![badge][badge-ios]
+
+* [QRose](https://github.com/alexzhirkevich/qrose) - QR code design library for Compose Multiplatform.
+![badge][badge-android]
+![badge][badge-ios]
+
+#### Compose Animation
+
+* [List Selection Animation](https://gist.github.com/KlassenKonstantin/502ab8969124c073812531533418e329) - How to create list sections with animated shapes [link](https://composable-fun.ghost.io/list-sections-with-animated-shapes)
 ![badge][badge-android]
 ![badge][badge-ios]
 
@@ -391,6 +422,23 @@
 ![badge][badge-tvos]
 ![badge][badge-watchos]
 ![badge][badge-windows]
+
+#### Templates
+* [beep beep](https://github.com/TheChance101/beep-beep/tree/develop)
+
+* [Honey Mart Server](https://github.com/TheChance101/Honey-Mart-Server)
+
+* [Honey Mart Android Client](https://github.com/TheChance101/Honey-Mart-Android-Client)
+
+* [Cookit Recipes App](https://github.com/JunydDEV/kmp-recipes-mobile-app)
+
+* [Compose PlayGround](https://github.com/Foso/Jetpack-Compose-Playground)
+
+* [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/) - Template Generator
+
+#### Lists
+
+* [other list](https://github.com/terrakok/kmm-awesome) - This list contains libraries which support iOS and Android targets in first place.
 
 Welcome contribute!
 
