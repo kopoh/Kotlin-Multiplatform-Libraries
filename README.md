@@ -393,7 +393,6 @@
 ![badge][badge-windows]
 
 Welcome contribute!
-Please read the [contribution guidelines](Contributing.md) first.
 
 [badge-android]: https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android&style=flat
 [badge-android-native]: http://img.shields.io/badge/support-[AndroidNative]-090909.svg?style=flat
