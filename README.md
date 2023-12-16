@@ -443,17 +443,17 @@
 Welcome contribute!
 
 [badge-android]: https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android&style=flat
-[badge-android-native]: http://img.shields.io/badge/support-[AndroidNative]-090909.svg?style=flat
-[badge-wearos]: http://img.shields.io/badge/-wearos-090909.svg?style=flat
+[badge-android-native]: http://img.shields.io/badge/-support_AndroidNative-090909?style=for-the-badge&logo=Android&style=flat
+[badge-wearos]: http://img.shields.io/badge/-wearos-090909?style=for-the-badge&logo=apple&style=flat
 [badge-jvm]: https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk&style=flat
 [badge-js]: https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript&style=flat
-[badge-js-ir]: https://img.shields.io/badge/support-[IR]-090909.svg?style=flat
-[badge-nodejs]: https://img.shields.io/badge/-nodejs-090909?style=flat
+[badge-js-ir]: https://img.shields.io/badge/-support_IR-090909?style=for-the-badge&logo=Kotlin&style=flat
+[badge-nodejs]: https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=node.js&style=flat
 [badge-linux]: https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&style=flat 
 [badge-windows]: https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows&style=flat
-[badge-wasm]: https://img.shields.io/badge/-wasm-090909.svg?style=flat
-[badge-apple-silicon]: http://img.shields.io/badge/support-[AppleSilicon]-43BBFF.svg?style=flat
+[badge-wasm]: https://img.shields.io/badge/-wasm-090909?style=for-the-badge&logo=wasm&style=flat
+[badge-apple-silicon]: http://img.shields.io/badge/-support_AppleSilicon-909090?style=for-the-badge&logo=Apple&style=flat
 [badge-ios]: https://img.shields.io/badge/-IOS-090909?style=for-the-badge&logo=IOS&style=flat
 [badge-mac]: https://img.shields.io/badge/-macos-090909?style=for-the-badge&logo=macos&style=flat
-[badge-watchos]: http://img.shields.io/badge/-watchos-090909.svg?style=flat
-[badge-tvos]: http://img.shields.io/badge/-tvos-090909.svg?style=flat
+[badge-watchos]: http://img.shields.io/badge/-watchos-090909?style=for-the-badge&logo=apple&style=flat
+[badge-tvos]: http://img.shields.io/badge/-tvos-090909?style=for-the-badge&logo=apple&style=flat
