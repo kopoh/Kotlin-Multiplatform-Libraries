@@ -357,6 +357,9 @@
 ![badge][badge-android]
 ![badge][badge-ios]
 
+* [Picture in Picture](https://github.com/mohsenoid/Android-PiP) - This repository holds an Android Library that helps with the use of Picture-in-Picture mode. It also includes a sample app that shows how to use the library.
+![badge][badge-android]
+
 * [material3 windowsizeclass multiplatform](https://github.com/chrisbanes/material3-windowsizeclass-multiplatform) - Compose Multiplatform: Material 3 Window Size Class.
 ![badge][badge-android]
 ![badge][badge-ios]
