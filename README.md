@@ -164,14 +164,6 @@
 ![badge][badge-mac]
 ![badge][badge-windows]
 
-* [orbital](https://github.com/skydoves/Orbital) - Jetpack Compose animation library that allows you to implement animations such as shared element transition. 
-![badge][badge-android]
-![badge][badge-ios]
-
-* [orbital](https://github.com/theapache64/rebugger) - Rebugger is a simple compose utility function that can track the change in the given arguments. It’ll print the reason for recomposition in your Logcat window.
-![badge][badge-android]
-![badge][badge-ios]
-
 * [okio](https://github.com/square/okio) - A modern I/O library for Android, Java, and Kotlin Multiplatform.  
 ![badge][badge-android]
 ![badge][badge-ios]
@@ -301,6 +293,14 @@
 ![badge][badge-apple-silicon]
 
 #### Analytics
+
+* [Orbital](https://github.com/skydoves/Orbital) - Jetpack Compose animation library that allows you to implement animations such as shared element transition. 
+![badge][badge-android]
+![badge][badge-ios]
+
+* [Rebugger](https://github.com/theapache64/rebugger) - Rebugger is a simple compose utility function that can track the change in the given arguments. It’ll print the reason for recomposition in your Logcat window.
+![badge][badge-android]
+![badge][badge-ios]
 
 * [Kotlin-Multiplatform-Firebase](https://github.com/RubyLichtenstein/Kotlin-Multiplatform-Firebase) - Kotlin Multiplatform - Android/iOS/Web/Node.Js(Firebase)  
 ![badge][badge-android]
